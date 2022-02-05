@@ -1,4 +1,4 @@
-import React, { Fragment, useState, useEffect } from "react";
+import React, { useState, useEffect } from "react";
 import Navbar from "./components/Navbar";
 import Presentation from "./pages/Presentation";
 import About from "./pages/About";
@@ -19,13 +19,13 @@ export default function App() {
 	}, []);
 
 	return (
-		<Fragment>
+		<div className="font-jetbrains dark:bg-gray-900">
 			<Navbar lang={lang} setLang={setLang} />
 			<Presentation lang={lang} />
 			<About lang={lang} />
 			<Experience lang={lang} />
 			<Work lang={lang} />
 			<Contact lang={lang} />
-		</Fragment>
+		</div>
 	);
 }

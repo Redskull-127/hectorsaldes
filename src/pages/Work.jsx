@@ -10,17 +10,17 @@ export default function Work({ lang }) {
 						{menu[2][lang]}
 					</p>
 					<div className="grid grid-cols-1 md:grid-cols-2 gap-5 mt-3 ">
-						<div class="shadow-md border border-gray-200 rounded-md">
+						<div className="shadow-md border border-gray-200 rounded-md">
 							<img
-								class="w-full h-32 object-cover"
+								className="w-full h-32 object-cover"
 								src="https://www.muycomputer.com/wp-content/uploads/2020/02/Telegram.png"
 								alt="Telegram"
 							/>
-							<div class="p-5">
-								<h5 class="font-bold text-2xl mb-2">
+							<div className="p-5">
+								<h5 className="font-bold text-2xl mb-2">
 									{work[0][lang]}
 								</h5>
-								<p class="font-normal mb-3">{work[1][lang]}</p>
+								<p className="font-normal mb-3">{work[1][lang]}</p>
 								<a
 									className="block border-2 border-blue-500 rounded py-1 px-5 text-lg md:text-xl text-center hover:bg-blue-500"
 									href="https://t.me/MyUnsplashBot"
@@ -32,17 +32,17 @@ export default function Work({ lang }) {
 							</div>
 						</div>
 
-						<div class="shadow-md border border-gray-200 rounded-md">
+						<div className="shadow-md border border-gray-200 rounded-md">
 							<img
-								class="w-full h-32 object-cover"
+								className="w-full h-32 object-cover"
 								src="https://miro.medium.com/max/2000/1*jfdwtvU6V6g99q3G7gq7dQ.png"
 								alt="Telegram"
 							/>
-							<div class="p-5">
-								<h5 class="font-bold text-2xl mb-2">
+							<div className="p-5">
+								<h5 className="font-bold text-2xl mb-2">
 									{work[3][lang]}
 								</h5>
-								<p class="font-normal mb-3">{work[4][lang]}</p>
+								<p className="font-normal mb-3">{work[4][lang]}</p>
 								<a
 									className="block border-2 border-green-500 rounded py-1 px-5 text-lg md:text-xl text-center hover:bg-green-500"
 									href="https://t.me/MyUnsplashBot"

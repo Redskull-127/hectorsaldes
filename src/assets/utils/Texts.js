@@ -50,8 +50,8 @@ export const about = [
 		en: ", currently I am 21 years old, I am university student, apps development lover or web pages lover with technologies tools, and also web design lover. 🎒",
 	},
 	{
-		es: "Me encanta la creación de contenido, la música clásica, visitar nuevos lugares, conocer nuevas personas, aprender en internet, ayudar a las personas, dedicar tiempo a mis amigos, escribir y aprender cosas positivas 🥳",
-		en: "I love the creation of content, classic music, visiting new places, meeting new people, learning on internet, help others, spend time with my friends and learning positive things 🥳",
+		es: "Me encanta la creación de contenido, la música clásica, visitar nuevos lugares, conocer nuevas personas, aprender en internet, ayudar a las personas, dedicar tiempo a mis amigos, escribir y aprender cosas positivas. 🥳",
+		en: "I love the creation of content, classic music, visiting new places, meeting new people, learning on internet, help others, spend time with my friends and learning positive things. 🥳",
 	},
 	{
 		es: "Me gusta usar herramientas que me ayuden a facilitar las tareas como ",

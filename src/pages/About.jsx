@@ -76,7 +76,7 @@ export default function About({ lang }) {
                                 <span className="font-bold dark:text-red-600 duration-1000">
                                     Java
                                 </span>
-                                .💻
+                                .{" "}💻
                             </p>
                             <br />
                             <p className="text-base md:text-lg text-justify">
