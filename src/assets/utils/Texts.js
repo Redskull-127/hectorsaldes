@@ -3,25 +3,25 @@ export const menu = [
 		es: "Sobre mi 👨‍💻",
 		en: "About me 👨‍💻",
 		ref: "#about",
-		color: "red",
+		color: "border-red-500",
 	},
 	{
 		es: "Experiencia 🧠",
 		en: "Experience 🧠",
 		ref: "#experience",
-		color: "yellow",
+		color: "border-yellow-500",
 	},
 	{
 		es: "Trabajo 💼",
 		en: "Work 💼",
 		ref: "#work",
-		color: "blue",
+		color: "border-blue-500",
 	},
 	{
 		es: "Contacto 📞",
 		en: "Contact 📞",
 		ref: "#contact",
-		color: "green",
+		color: "border-green-500",
 	},
 ];
 

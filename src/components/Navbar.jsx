@@ -19,7 +19,7 @@ export default function Navbar({ lang, setLang }) {
 				<div className="my-5 md:my-0" key={i}>
 					<a href={menu[i].ref}>
 						<p
-							className={`mx-0 md:mx-3 px-4 py-2 md:py-0 hover:bg-${menu[i].color}-300 hover:bg-opacity-30 dark:hover:bg-${menu[i].color}-600 rounded border-b-4 border-${menu[i].color}-500`}
+							className={`mx-0 md:mx-3 px-4 py-2 md:py-0 hover:bg-slate-200 dark:hover:bg-slate-500 rounded border-b-4 ${menu[i].color}`}
 						>
 							{menu[i][lang]}
 						</p>

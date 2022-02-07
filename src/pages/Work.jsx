@@ -45,7 +45,7 @@ export default function Work({ lang }) {
 								<p className="font-normal mb-3">{work[4][lang]}</p>
 								<a
 									className="block border-2 border-green-500 rounded py-1 px-5 text-lg md:text-xl text-center hover:bg-green-500"
-									href="https://t.me/MyUnsplashBot"
+									href="https://medium.com/@HectorSaldes"
 									target="_blank"
 									rel="noreferrer"
 								>
