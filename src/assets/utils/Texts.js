@@ -112,22 +112,18 @@ export const work = [
 		en: "Creation of a Telegram Bot, for visualization and search, get random photos of images with use of the API of the Unsplash platform.",
 	},
 	{ es: "¡Úsalo!", en: "Use it!" },
-
-
 	{ es: "Creación de contenido en internet", en: "Internet content creation" },
 	{
 		es: "Estoy empezando a tomarle el gusto por la escritura, por lo que estoy creando contenido en publicaciones de Medium, para diferentes enfoques no solo tecnológicos.",
 		en: "I'm starting to get a taste for writing, so I'm creating content in Medium publications, for different approaches not only technological.",
 	},
 	{ es: "¡Mirar!", en: "Look!" },
-
-
 	{ es: "Aplicación web de recursos", en: "Resource web application" },
 	{
 		es: "Estoy trabajando actualmente en una plataforma que debido a una brecha de seguridad, se pueden descargar iconos y guardar imágenes totalmente gratis en mi aplicación web llamada LIBER.",
 		en: "I am currently working on a platform that, due to a security breach, you can download icons and save images totally free in my web application called LIBER.",
 	},
-	{ es: "¡Mirar!", en: "Look!" },
+	{ es: "¡Mirar!", en: "Look!" }
 ];
 
 export const contact = [
