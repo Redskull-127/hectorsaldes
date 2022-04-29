@@ -16,13 +16,9 @@
 			<img src="https://img.shields.io/badge/MySQL-E58F00?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010"/>
 			<img src="https://img.shields.io/badge/MONGODB-219945?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010"/>
 		</div>
-		<img style="margin-top: 10px; display: block; margin-left: auto; margin-right: auto;" src="https://github-readme-stats.vercel.app/api?username=hectorsaldes&show_icons=true&count_private=true&theme=gruvbox&hide_border=false&bg_color=050810"/>
-	</div>
-	<hr style="margin: 10px 10px 10px"/>
-	<div >
-		<a href="https://theartofanimation.tumblr.com/post/182443830028/waneella-httpwaneellatumblrcom" target="_blank">
-			<img src="https://64.media.tumblr.com/285ea3a994556e48364b04544f17560c/tumblr_p7kudmnpzY1qhttpto4_1280.gifv" alt="Credits" />
-		</a>
+		<center>
+			<img style="margin-top: 10px;" src="https://github-readme-stats.vercel.app/api?username=hectorsaldes&show_icons=true&count_private=true&theme=gruvbox&hide_border=false&bg_color=050810"/>
+		</center>
 	</div>
 </div>
 
