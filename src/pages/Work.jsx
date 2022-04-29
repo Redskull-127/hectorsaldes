@@ -21,11 +21,11 @@ export default function Work({ lang }) {
 									{work[0][lang]} <span className="text-gray-500">NOT WORKING FOR NOW</span>
 								</h5>
 								<p className="font-normal mb-3">{work[1][lang]}</p>
-								<a
+								<button
 									className="block border-2 border-blue-500 rounded py-1 px-5 text-lg md:text-xl text-center  cursor-not-allowed"
 								>
 									{work[2][lang]}
-								</a>
+								</button>
 							</div>
 						</div>
 
