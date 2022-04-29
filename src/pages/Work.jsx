@@ -18,12 +18,12 @@ export default function Work({ lang }) {
 							/>
 							<div className="p-5">
 								<h5 className="font-bold text-2xl mb-2">
-									{work[0][lang]}
+									{work[0][lang]} <span className="text-gray-500">NOT WORKING FOR NOW</span>
 								</h5>
 								<p className="font-normal mb-3">{work[1][lang]}</p>
 								<a
-									className="block border-2 border-blue-500 rounded py-1 px-5 text-lg md:text-xl text-center hover:bg-blue-500"
-									href="https://t.me/MyUnsplashBot"
+									className="block border-2 border-blue-500 rounded py-1 px-5 text-lg md:text-xl text-center  cursor-not-allowed"
+									// href="https://t.me/MyUnsplashBot"
 									target="_blank"
 									rel="noreferrer"
 								>
@@ -53,6 +53,29 @@ export default function Work({ lang }) {
 								</a>
 							</div>
 						</div>
+
+						<div className="shadow-md border border-gray-200 rounded-md">
+							<img
+								className="w-full h-32 object-cover"
+								src="https://maxcdn.icons8.com/download/misc/icons8-header/ouch-cover.jpg"
+								alt="LIBER"
+							/>
+							<div className="p-5">
+								<h5 className="font-bold text-2xl mb-2">
+									{work[6][lang]}
+								</h5>
+								<p className="font-normal mb-3">{work[7][lang]}</p>
+								<a
+									className="block border-2 border-yellow-500 rounded py-1 px-5 text-lg md:text-xl text-center hover:bg-yellow-500"
+									href="https://hectorsaldes.github.io/liber/#/"
+									target="_blank"
+									rel="noreferrer"
+								>
+									{work[8][lang]}
+								</a>
+							</div>
+						</div>
+
 					</div>
 				</div>
 			</div>

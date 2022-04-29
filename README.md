@@ -1,26 +1,27 @@
-# Hector Saldaña Espinoza
-
-<h1 style="font-size: 2.5rem; font-weight: bold; text-align: center;" align="center"> Hello!, say hello! 👋</h1>
-
-<div style="display:flex; flex-wrap: wrap; justify-content: center;" align="center">
-  <a href="https://hectorsaldes.netlify.app/" target="_blank">
-    <img src="https://i.pinimg.com/originals/1b/96/5c/1b965c3c3b5df0517bdca4e0d95beb15.gif" alt="Click me" />
-  </a>
+<div style="display:grid; grid-template-columns: 400px 300px; grid-gap: 10px">
+	<div>
+		<h1 style="font-size: 2.5rem; font-weight: bold; text-align: center;" align="center"> Hello!, say hello! 👋</h1>
+		<h2>About me</h2>
+		<ul>
+			<li>🎯 I am discovering new things.</li>
+			<li>🌌 I love web applications.</li>
+			<li>🤯 I like to be creative</li>
+		</ul>
+		<h2>Tools</h2>
+		<div>
+			<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010"/>
+			<img src="https://img.shields.io/badge/React-68dcfc?style=for-the-badge&logo=react&logoColor=white&labelColor=101010"/>
+			<img src="https://img.shields.io/badge/Notion-000?style=for-the-badge&logo=notion&logoColor=white&labelColor=101010"/>
+			<img src="https://img.shields.io/badge/Figma-A358FF?style=for-the-badge&logo=figma&logoColor=white&labelColor=101010"/>
+			<img src="https://img.shields.io/badge/MySQL-E58F00?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010"/>
+			<img src="https://img.shields.io/badge/MONGODB-219945?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010"/>
+		</div>
+		<img src="https://github-readme-stats.vercel.app/api?username=hectorsaldes&show_icons=true&count_private=true&theme=gruvbox&hide_border=false&bg_color=050810"/>
+	</div>
+	<div>
+		<a href="https://theartofanimation.tumblr.com/post/170460623223/waneella-httpwaneellatumblrcom" target="_blank">
+			<img width="400" src="https://i.pinimg.com/originals/e3/99/95/e399955f7ad2b30ec8219de225d68a16.gif" alt="Credits" />
+		</a>
+	</div>
 </div>
-<p style="font-size:0.8em; text-align:center" align="center">👆 Click on the cover to see my web site 👆</p>
 
-# About me:
--  I love discovering and create technologies things 🎯
--  I like to be creative and sometimes learn new technologies like frameworks and/or libraries. 😎
-
-# Social Networks:
-- `Twitter` : <https://twitter.com/hectorsaldes>
-- `LinkedIn` : <https://www.linkedin.com/in/hector-salda%C3%B1a-ab3977219/>
-- `Facebook`: <https://www.facebook.com/hector.saldana.5623293/>
-
-# Github status:
-<div style="text-align:center" align="center">
-<a href="https://hectorsaldes.github.io/"><img alt="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hectorsaldes&show_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-
-<a href="https://github.com/hectorsaldes/hectorsaldes"><img alt="" src="https://github-readme-stats.vercel.app/api?username=hectorsaldes&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-</div>
