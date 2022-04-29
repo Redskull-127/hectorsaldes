@@ -14,4 +14,7 @@
 	<img src="https://img.shields.io/badge/MySQL-E58F00?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010"/>
 	<img src="https://img.shields.io/badge/MONGODB-219945?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010"/>
 </div>
-<img align="center" style="margin-top: 10px;" src="https://github-readme-stats.vercel.app/api?username=hectorsaldes&show_icons=true&count_private=true&theme=gruvbox&hide_border=false&bg_color=050810"/>
+<h2>Status</h2>
+<p align="center">
+<img style="margin-top: 10px;" src="https://github-readme-stats.vercel.app/api?username=hectorsaldes&show_icons=true&count_private=true&theme=gruvbox&hide_border=false&bg_color=050810"/>
+</p>
