@@ -1,4 +1,4 @@
-<div style="display:grid; grid-template-columns: 400px 300px; grid-gap: 10px">
+<div>
 	<div>
 		<h1 style="font-size: 2.5rem; font-weight: bold; text-align: center;" align="center"> Hello!, say hello! 👋</h1>
 		<h2>About me</h2>
@@ -16,11 +16,12 @@
 			<img src="https://img.shields.io/badge/MySQL-E58F00?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010"/>
 			<img src="https://img.shields.io/badge/MONGODB-219945?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010"/>
 		</div>
-		<img src="https://github-readme-stats.vercel.app/api?username=hectorsaldes&show_icons=true&count_private=true&theme=gruvbox&hide_border=false&bg_color=050810"/>
+		<img style="margin-top: 10px; display: block; margin-left: auto; margin-right: auto;" src="https://github-readme-stats.vercel.app/api?username=hectorsaldes&show_icons=true&count_private=true&theme=gruvbox&hide_border=false&bg_color=050810"/>
 	</div>
-	<div>
-		<a href="https://theartofanimation.tumblr.com/post/170460623223/waneella-httpwaneellatumblrcom" target="_blank">
-			<img width="400" src="https://i.pinimg.com/originals/e3/99/95/e399955f7ad2b30ec8219de225d68a16.gif" alt="Credits" />
+	<hr style="margin: 10px 10px 10px"/>
+	<div >
+		<a href="https://theartofanimation.tumblr.com/post/182443830028/waneella-httpwaneellatumblrcom" target="_blank">
+			<img src="https://64.media.tumblr.com/285ea3a994556e48364b04544f17560c/tumblr_p7kudmnpzY1qhttpto4_1280.gifv" alt="Credits" />
 		</a>
 	</div>
 </div>
